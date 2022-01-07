@@ -1,0 +1,15 @@
+Run;Begin Periode;Eind Periode;Bedrijf;Omschrijving;Kostenplaats;Grootboeknr;Looncode;Debet;Credit
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);2100 | Nettosalarissen;P001 | Asscheman, Dolf;2100;9822 | Per bankrekening 2;0,00;2693,99
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);2105 | Reservering vakantiegeld;P001 | Asscheman, Dolf;2105;7731 | Res reservering 3;0,00;340,00
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);2105 | Reservering vakantiegeld;P001 | Asscheman, Dolf;2105;7733 | Opslag svw reservering 3 (15%);0,00;51,00
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);2156 | Af te dragen pensioen;P001 | Asscheman, Dolf;2156;6000 | Pensioenregeling Wn;0;151,76
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);2156 | Af te dragen pensioen;P001 | Asscheman, Dolf;2156;6001 | Pensioenregeling Wg;0,00;151,76
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);2157 | Personeelsvereniging;P001 | Asscheman, Dolf;2157;5204 | Inhouding Personeelsvereniging;0;7,00
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);4000 | Brutosalarissen;P001 | Asscheman, Dolf;4000;1000 | Salaris;4250,00;0,00
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);4001 | Mutatie res. vakantiegeld;P001 | Asscheman, Dolf;4001;7731 | Res reservering 3;340,00;0,00
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);4001 | Mutatie res. vakantiegeld;P001 | Asscheman, Dolf;4001;7733 | Opslag svw reservering 3 (15%);408,02;0,00
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);4020 | Sociale lasten;P001 | Asscheman, Dolf;4020;8015 | WAO-WIA wg;306,73;0,00
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);4021 | Pensioenlasten;P001 | Asscheman, Dolf;4021;6001 | Pensioenregeling Wg;151,76;0,00
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);2100 | Nettosalarissen;P002 | Dijk, Angela van;2100;9880 | Per bankrekening;0,00;1852,16
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);2105 | Reservering vakantiegeld;P002 | Dijk, Angela van;2105;7731 | Res reservering 3;0,00;181,60
+R2-2019;2019-1-M;2019-1-M;LanTel B.V. (16121480);2105 | Reservering vakantiegeld;P002 | Dijk, Angela van;2105;7733 | Opslag svw reservering 3 (15%);0,00;27,24

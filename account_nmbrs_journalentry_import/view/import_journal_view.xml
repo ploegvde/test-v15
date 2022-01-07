@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<odoo>
+    <data>
+        <!-- #22635 :  Migratie to V15 -->
+        <!-- added menu in accouting > Import Journal Entries #22635 -->
+        <menuitem
+            name="Import Journal Entries"
+            action="act_import_journal"
+            parent="account.menu_finance_entries"
+            sequence="50"
+            id="action_import_journal_wizard"
+        />
+    </data>
+</odoo>

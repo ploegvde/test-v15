@@ -1,0 +1,19 @@
+Run;Begin Periode;Eind Periode;Bedrijf;Omschrijving;Grootboeknr;Looncode;Debet;Credit
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test12345 | Loonheffingen;test12345;8015 | WAO-WIA wg;0;952,37
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test12345 | Loonheffingen;test12345;8035 | Premie sectorfonds wg;0;132,74
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test12345 | Loonheffingen;test12345;8075 | gediff. WGA wg;0;46,53
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test12345 | Loonheffingen;test12345;8085 | werkloosheidswet wg;0;492,6
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test12345 | Loonheffingen;test12345;8090 | ZW wg;0;38,31
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test12345 | Loonheffingen;test12345;8682 | Zvw werkgeversheffing;0;951
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test12345 | Loonheffingen;test12345;8800 | Loonheffing Tabel;0;4567,38
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test12345 | Res. en Opslag Vakantiegeld;test12345;7711 | Res reservering 1;0;1085,57
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test12345 | Nettoloon;test12345;9880 | Per bankrekening;0;9152,19
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test6789 | Bruto lonen;test6789;1000 | Salaris;13569,57;0
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test6789 | Res. en opslag Vakantiegeld;test6789;7711 | Res reservering 1;1085,57;0
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test6789 | Afdracht Sociale Lasten (WG);test6789;8015 | WAO-WIA wg;952,37;0
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test6789 | Afdracht Sociale Lasten (WG);test6789;8035 | Premie sectorfonds wg;132,74;0
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test6789 | Afdracht Sociale Lasten (WG);test6789;8075 | gediff. WGA wg;46,53;0
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test6789 | Afdracht Sociale Lasten (WG);test6789;8085 | werkloosheidswet wg;492,6;0
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test6789 | Afdracht Sociale Lasten (WG);test6789;8090 | ZW wg;38,31;0
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test6789 | Afdracht Sociale Lasten (WG);test6789;8682 | Zvw werkgeversheffing;951;0
+R1-2019;2019-1-M;2019-1-M;Demo (1183);test6789 | Reiskosten vergoeding;test6789;5130 | Reiskostenvergoeding (onbelast);150;0
